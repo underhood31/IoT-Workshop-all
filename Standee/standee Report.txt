@@ -1,0 +1,57 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: standee.ai
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: inches
+Artboard Dimensions: 60 in x 96 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Acumin Variable Concept Default (OTF)
+Oswald ExtraLight (TrueType)
+Century Gothic (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\Design\ECE Workshop\Standee\Atal logo.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 4137K, 998 by 849 pixels
+Dimensions: 411.681 by 350.217 points 
+Resolution: 174.543 by 174.543 pixels per inch
+
+
+D:\Design\ECE Workshop\Standee\Aicte logo.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 781K, 400 by 400 pixels
+Dimensions: 400 by 400 points 
+Resolution: 72 by 72 pixels per inch

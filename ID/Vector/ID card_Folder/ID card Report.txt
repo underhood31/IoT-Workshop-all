@@ -1,0 +1,55 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: ID card.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: millimeters
+Artboard Dimensions: 100 mm x 75 mm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Oswald ExtraLight (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\Design\ECE Workshop\Standee\Links\Aicte logo.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 781K, 400 by 400 pixels
+Dimensions: 37.872 by 37.872 points 
+Resolution: 760.449 by 760.449 pixels per inch
+
+
+D:\Design\ECE Workshop\Standee\Links\Atal logo.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 4137K, 998 by 849 pixels
+Dimensions: 44.519 by 37.872 points 
+Resolution: 1614.054 by 1614.054 pixels per inch

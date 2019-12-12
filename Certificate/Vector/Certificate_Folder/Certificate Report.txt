@@ -1,0 +1,65 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Certificate.ai
+Color Mode: CMYK color
+Color Profile: U.S. Web Coated (SWOP) v2
+Ruler Units: points
+Artboard Dimensions: 841.89 pt x 595.276 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:
+Myriad Pro (Adobe Fonts)
+
+-----------------------------------------------------------------------------
+Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\Design\ECE Workshop\Standee\Links\Atal logo.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 4137K, 998 by 849 pixels
+Dimensions: 69.774 by 59.357 points 
+Resolution: 1029.84 by 1029.84 pixels per inch
+
+
+D:\Design\ECE Workshop\Standee\Links\Aicte logo.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 781K, 400 by 400 pixels
+Dimensions: 58.152 by 58.152 points 
+Resolution: 495.252 by 495.252 pixels per inch
+
+
+D:\Design\ECE Workshop\extras\ECE-Logo.png
+Type: Transparent CMYK
+Bits per Pixel: 40
+Channels: 5
+Size: 1743K, 594 by 601 pixels
+Dimensions: 164.568 by 166.507 points 
+Resolution: 259.881 by 259.881 pixels per inch
